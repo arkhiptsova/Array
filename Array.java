@@ -3,13 +3,12 @@ package FeetNumber;
 import java.util.Scanner; 
 
 /*
-Mila Arkhiptcova
+Mila 
 Create a Java application that implements use of an int array.
- Use for loops to iterate through the array using the array’s 
+ Use for loops to iterate through the array using the arrayâ€™s 
  length variable to stay within the array bounds. Fill the array 
  with random numbers and print the array.
-10/01/2019
-Bellevue University
+
 Array.java
 */
 public class Array {
